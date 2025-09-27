@@ -1,5 +1,4 @@
 # Digital Clock ⏰
-
 A simple and responsive Digital Clock built using HTML, CSS, and JavaScript.This clock displays the current time in 24-hour format along with the full date in a human-readable format.  
 
 ---
