@@ -3,7 +3,6 @@ A simple and responsive Digital Clock built using HTML, CSS, and JavaScript.This
 
 ---
 ## Features ✨
-
 * ⏰ **Real-time Time Display** – Shows the current time in `HH:MM:SS` format.  
 * 📅 **Full Date Display** – Shows the weekday, day, month, and year.  
 * 📱 **Responsive Design** – Optimized for desktops, tablets, and mobile screens.  
